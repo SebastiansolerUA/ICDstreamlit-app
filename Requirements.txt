@@ -46,6 +46,7 @@ dependencies:
   - vs2015_runtime=14.36.32532=h05e6639_17
   - wheel=0.41.2=pyhd8ed1ab_0
   - xz=5.2.6=h8d14728_0
+  -streamlit==1.25.0
 - pip:
       - anyascii==0.3.2
       - contractions==0.1.73
