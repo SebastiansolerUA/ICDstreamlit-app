@@ -2,6 +2,8 @@ name: ICD2425
 channels:
   - conda-forge
 dependencies:
+  -nltk
+  -spacy
   - altair=5.5.0=pyhd8ed1ab_1
   - annotated-types=0.7.0=pyhd8ed1ab_0
   - anyio=4.6.2.post1=pyhd8ed1ab_0
